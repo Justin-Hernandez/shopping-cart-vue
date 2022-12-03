@@ -1,3 +1,9 @@
+
+
+https://user-images.githubusercontent.com/38103361/205448220-81a46d64-07c0-41bb-86a9-a3a96b39a229.mp4
+
+
+
 # practica-final-vue
 
 ## Project setup
